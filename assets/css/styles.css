@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    
+}
+/* navbar */
+.navbar{
+    position: absolute;top:0;left: 0;
+    padding: 0px;
+}
+.navbarViajes{
+    padding-inline: 10rem;
+}
+.navbar-nav{
+    padding-inline: 10rem;
+}
+.navbarImg{
+    height: 2rem;
+    width: 2rem;
+}
+/* carrousel */
+/* grilla */
+.parrafos{
+    padding-inline: 50px;
+}
+.boxGrilla{
+    background:#00FFFF;
+    display: flex;
+    justify-content: center;
+    height: 30px;
+}
+/* cartas */
+.sectionDestacados{
+    padding-inline: 50px;
+}
+.card-body{
+    background: #00FFFF;
+}
+/* formulario */
+.formulario{
+    padding-inline: 50px;
+}
+/* footer */
+.footer{
+    background: #00FFFF;
+    margin: 0px;
+    display: flex;
+    justify-content: left;
+}
+.footerIconos{
+    display: flex;
+    justify-content: end;
+    padding-inline: 10rem;
+    height: 50px;
+    width: auto;
+}
+.faviFooter{
+    height: 50px;
+    width: 50px;
+    
+}
